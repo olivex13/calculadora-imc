@@ -5,7 +5,7 @@
 
 ### Objetivo:
 
-Elaborar um algoritmo quue dado o peso e a altura de um adulto e mostrar sua condição de acordo com a tabela abaixo.
+Elaborar um algoritmo que dado o peso e a altura de um adulto, mostrar sua condição de acordo com a tabela abaixo.
 
 IMC em adultos condição:
 - Abaixo de 18.5 - Abaixo do peso
